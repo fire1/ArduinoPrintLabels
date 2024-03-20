@@ -1,6 +1,9 @@
-# Arduino Print Labels 
-Arduino based printable labels 
+# Arduino Print Labels A4 sheet
+Arduino-based printable pinout labels.
 
-Design files are in "src/" folders 
+### List of available chips:
+ * Atmega328/16/8 
+
+### Design files are in "src/" folders 
 
 
